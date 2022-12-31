@@ -1,2 +1,2 @@
-# ROT-DayZ-Server-Public
-Repository to track Issue reports and feature requests
+# Reign of Terror - DayZ
+Public repository to track issue reports and feature requests
